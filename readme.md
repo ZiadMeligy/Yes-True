@@ -39,6 +39,14 @@ The repository has the following folder structure:
 
 Contributions to this project are welcome. If you have any suggestions or improvements, please create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Contacts
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/ZiadMeligy" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/89343979?v=4" width="150px;" alt="Youssef Ashraf"/>
+    <br />
+    <sub><b>Ziad Meligy</b></sub></a>
+    </td>
+    </tr>
+ </table>
