@@ -1,47 +1,44 @@
-# Project Name
+# Yes True
 
-Not True
+This is the repository for the Yes True project, a website that provides news articles and allows users to search and sort them based on different criteria.
 
-## Description
+## Features
 
-Not True is a web application that displays top news articles from various categories. Users can browse news articles, search for specific topics, and sort articles based on different criteria. The application provides a user-friendly interface to stay updated with the latest news.
-
-## Installation
-
-1. Clone the repository: `git clone https://github.com/abduelrahmanemad/Not-True.git`
-2. Navigate to the project directory: `cd not-true`
-3. Open the `index.html` file in your preferred web browser.
-
-## Usage
-
-1. Upon opening the application, you will see a header section containing the Not True logo, a search bar, and navigation options.
-2. Use the search bar to search for specific topics or keywords. Press Enter or click the search button to view the search results.
-3. The main navigation menu provides options for different news categories. Click on a category to view the top news articles in that category.
-4. The sorting section allows you to sort the articles based on the published date or popularity of the source. Click on a sorting option to update the article list accordingly.
-5. Scroll down to view the articles section. Each article is represented as a box with an image, title, description, and author information. Click on the "Read More" button to open the full article in a new tab.
-6. Pagination buttons are available at the bottom of the page to navigate between different pages of articles.
-7. The application is responsive and optimized for different screen sizes, providing an optimal viewing experience on desktop and mobile devices.
+- Search: Users can enter keywords in the search bar to search for specific articles.
+- Sort: Users can sort the articles based on either the published date or the popularity of the source.
+- Responsive Design: The website is designed to be responsive and compatible with different devices.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- FontAwesome (for icons)
-- Google Fonts API
+
+## Getting Started
+
+To run the website locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/yes-true.git`
+2. Navigate to the project directory: `cd yes-true`
+3. Open the `index.html` file in your web browser.
+
+## Folder Structure
+
+The repository has the following folder structure:
+
+- `css/`: Contains the CSS stylesheets used for the website.
+- `js/`: Contains the JavaScript code for the website.
+- `index.html`: The main HTML file for the website.
 
 ## Credits
 
-- The application uses the [NewsAPI](https://newsapi.org/) to fetch the latest news articles.
-- The design and layout of the application are inspired by the third template from [Elzero](https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/#) .
+- Fonts: The Cairo and Work Sans fonts are used in this project. They are sourced from [Google Fonts](https://fonts.google.com/).
+- Icons: The search icon is from the Font Awesome icon library.
+
+## Contributing
+
+Contributions to this project are welcome. If you have any suggestions or improvements, please create a pull request.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or feedback, please contact the project maintainer:
-
-- Name: AbdulRahman Emad
-- Email: abduelrahmanemad@gmail.com
