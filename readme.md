@@ -20,7 +20,7 @@ To run the website locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/yes-true.git`
 2. Navigate to the project directory: `cd yes-true`
-3. Open the `index.html` file in your web browser.
+3. Use Live server from VScode or anything similar so that the JS file can run the API with no issues.
 
 ## Folder Structure
 
